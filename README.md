@@ -1,6 +1,8 @@
 # 🛡️ CyberShield System
 
-CyberShield System is an AI-powered cybersecurity platform designed to detect and analyze various cyber threats in real time. The system combines modern web technologies with machine learning and AI services to provide intelligent threat detection and security analysis.
+CyberShield System is a cybersecurity platform designed to identify and analyze modern digital threats through a centralized dashboard. The system combines traditional cybersecurity techniques with Artificial Intelligence to detect phishing attacks, malicious URLs, prompt injection attempts, suspicious files, and AI-generated media such as deepfakes.
+
+The platform provides risk assessments, threat explanations, and intelligent security insights using Google Gemini AI, helping users understand potential threats and make informed security decisions.
 
 ## 🚀 Features
 
