@@ -28,7 +28,7 @@ Dashboard Page:
 
 
 Ingestion Lab: 
-<img width="1365" height="600" alt="image" src="https://github.com/user-attachments/assets/5a4bc15e-b2c8-45de-ba66-b83c001ff4bc" />
+<img width="1365" height="600" alt="image" src="https://github.com/user-attachments/assets/83d963a1-a736-48f8-a42b-a0d3baf0c345" />
 
 
 
