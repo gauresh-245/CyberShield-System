@@ -23,7 +23,7 @@ Home Page :
 <img width="1361" height="599" alt="image" src="https://github.com/user-attachments/assets/e152d0d4-37fa-4c25-8fc9-54fd89b00a0d" />
 
 Dashboard Page: 
-<img width="1363" height="597" alt="image" src="https://github.com/user-attachments/assets/f28a605e-a82c-4a09-930e-faec859e3575" />
+<img width="1365" height="606" alt="image" src="https://github.com/user-attachments/assets/d5e1b09d-e8d6-4ab2-8287-92a569d6aead" />
 
 
 
